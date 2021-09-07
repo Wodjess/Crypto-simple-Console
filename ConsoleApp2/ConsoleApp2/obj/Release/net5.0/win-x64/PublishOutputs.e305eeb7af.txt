@@ -1,0 +1,2 @@
+C:\Users\а\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\net5.0\publish\ConsoleApp2.pdb
+C:\Users\а\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\net5.0\publish\ConsoleApp2.exe
